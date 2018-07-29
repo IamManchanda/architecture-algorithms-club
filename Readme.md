@@ -9,7 +9,7 @@ One Simple stop for your curious questions on Data Structures and Algorithms in 
 
 ## Test your Code
 
-Instructions for testing is provided in every `Readme.md` file of your specific `solution-{myfavlanguage}` folder for each respective questions. You can check out one of those as an example [here](./reversestring/solutions-javascript/Readme.md)
+Instructions for testing is provided in every `Readme.md` file of your specific `solution-{myfavlanguage}` folder for each respective questions. You can check out one of those as an example [here](./reversestring/solutions-javascript/Readme.md#test-the-solution)
 
 ## Contribute your solutions in your favourite language
 
