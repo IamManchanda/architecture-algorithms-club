@@ -2,6 +2,10 @@
 
 Please find the solutions for JavaScript language for the [Reverse String Question](../Readme.md) within this folder.
 
+  1. Checkout **Solution 1** from here: [`solution-1/index.js`](./solution-1/index.js)
+  2. Checkout **Solution 2** from here: [`solution-2/index.js`](./solution-2/index.js)
+  3. Checkout **Solution 3** from here: [`solution-3/index.js`](./solution-3/index.js)
+
 ## Contribute a solution
 
 - If you want to modify an already solved solution, modify the code, test it with jest as mentioned below and send us a Pull Request.
